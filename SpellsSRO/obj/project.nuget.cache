@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fqdq46yN18FTCWRICvqbSvNcI+6ILtHe52PU1CdR6LydGdqEYAsKHb3LmhnN4mlBNEQHNXR53gQdBdEd1piw5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\itmon\\Desktop\\Project\\SpellsSRO\\SpellsSRO\\SpellsSRO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\itmon\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\itmon\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\itmon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\itmon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

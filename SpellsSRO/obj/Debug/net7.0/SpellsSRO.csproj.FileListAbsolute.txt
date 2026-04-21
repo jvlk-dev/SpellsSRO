@@ -1,0 +1,14 @@
+C:\Users\itmon\Desktop\Project\SpellsSRO\SpellsSRO\bin\Debug\net7.0\SpellsSRO.exe
+C:\Users\itmon\Desktop\Project\SpellsSRO\SpellsSRO\bin\Debug\net7.0\SpellsSRO.deps.json
+C:\Users\itmon\Desktop\Project\SpellsSRO\SpellsSRO\bin\Debug\net7.0\SpellsSRO.runtimeconfig.json
+C:\Users\itmon\Desktop\Project\SpellsSRO\SpellsSRO\bin\Debug\net7.0\SpellsSRO.dll
+C:\Users\itmon\Desktop\Project\SpellsSRO\SpellsSRO\bin\Debug\net7.0\SpellsSRO.pdb
+C:\Users\itmon\Desktop\Project\SpellsSRO\SpellsSRO\obj\Debug\net7.0\SpellsSRO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itmon\Desktop\Project\SpellsSRO\SpellsSRO\obj\Debug\net7.0\SpellsSRO.AssemblyInfoInputs.cache
+C:\Users\itmon\Desktop\Project\SpellsSRO\SpellsSRO\obj\Debug\net7.0\SpellsSRO.AssemblyInfo.cs
+C:\Users\itmon\Desktop\Project\SpellsSRO\SpellsSRO\obj\Debug\net7.0\SpellsSRO.csproj.CoreCompileInputs.cache
+C:\Users\itmon\Desktop\Project\SpellsSRO\SpellsSRO\obj\Debug\net7.0\SpellsSRO.dll
+C:\Users\itmon\Desktop\Project\SpellsSRO\SpellsSRO\obj\Debug\net7.0\refint\SpellsSRO.dll
+C:\Users\itmon\Desktop\Project\SpellsSRO\SpellsSRO\obj\Debug\net7.0\SpellsSRO.pdb
+C:\Users\itmon\Desktop\Project\SpellsSRO\SpellsSRO\obj\Debug\net7.0\SpellsSRO.genruntimeconfig.cache
+C:\Users\itmon\Desktop\Project\SpellsSRO\SpellsSRO\obj\Debug\net7.0\ref\SpellsSRO.dll
